@@ -1,6 +1,9 @@
 
 ReferEase: An AI-Powered Platform for Democratizing Job Referrals
 
+Repository to clone: https://github.com/raghavxi1/ReferEase
+Live Demo of the project: https://refer-ease-nine.vercel.app/
+
 #Authors:
 
 Name:Raghav Siddharth
